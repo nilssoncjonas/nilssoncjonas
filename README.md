@@ -11,7 +11,7 @@ HTML / CSS / JavaScript<br><br>
 You decide, I will answer <br><br>
 
 ## ⚡ Fun fact
-Beside programming, computers, networking and technology in general, I love music, trying to learn the guitar, (I have one of Swedens largest airguitar collections, everything from flying v, SG, Les Pauls to Telecasters and stratocasters) Being out in the nature to walk or run refuels my mind, and I also like being in the kitchen and cook and bake.<br><br>
+Beside programming, computers, networking and technology in general, I love music, trying to learn the guitar, (I have one of Swedens largest airguitar collections, everything from flying v, SG, Les Pauls to Telecasters, stratocasters and more! 🎸
 
 ---
 
