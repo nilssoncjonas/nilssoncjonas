@@ -8,10 +8,10 @@ at Medieinstitutet in Malmö. It's a two year occupational college that includes
 HTML / CSS / JavaScript<br><br>
 
 ## 💬 Ask me about anything!
-You decide, I will answer <br><br>
+You ask, I will try to answer... <br><br>
 
 ## ⚡ Fun fact
-Beside programming, computers, networking and technology in general, I love music, trying to learn the guitar, (I have one of Swedens largest airguitar collections, everything from flying v, SG, Les Pauls to Telecasters, stratocasters and more! 🎸
+Beside programming, computers, networking and technology in general, I love music, trying to learn the guitar, (I have one of Swedens largest airguitar collections 😁 🤘🏼 🎸!!!
 
 ---
 
