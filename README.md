@@ -5,7 +5,7 @@ at Medieinstitutet in Malmö. It's a two year occupational college that includes
 ## 👯 I’m looking to collaborate on everything with everybody!<br><br>
 
 ## 🌱 I’m currently learning!
-HTML / CSS / JavaScript<br><br>
+HTML / CSS / JavaScript / Typescript<br><br>
 
 ## 💬 Ask me about anything!
 You ask, I will try to answer... <br><br>
