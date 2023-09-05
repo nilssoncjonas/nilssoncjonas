@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## 🔭 I’m currently studying front end development
-at Medieinstitutet in Malmö, Sweden. It's a two year occupational college that includes HTML, CSS/SASS, Git, JavaScript, React, API, UI/UX interface and internships.<br><br>
+at Medieinstitutet in Malmö, Sweden. It's a two year occupational college that includes HTML, CSS/SASS, Git, JavaScript, Typescript, React, API, UI/UX interface and internships.<br><br>
 
 ## 🌱 I’m currently learning!
 React, React Router, TanStack Query with Typescript!
