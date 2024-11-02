@@ -1,27 +1,32 @@
 # 💫 About Me:
-## 🔭 I’m currently studying front end development
-at Medieinstitutet in Malmö, Sweden. It's a two year occupational college that includes HTML, CSS/SASS, Git, JavaScript, Typescript, React, API, UI/UX interface and internships.<br><br>
+## 🔭 I’m frontend developer going fullstack
 
 ## 🌱 I’m currently learning!
-React, React Router, TanStack Query with Typescript!
+Svelte && Laravel && E-Commerce
 
-## 💬 Ask me about!
-- Music / Guitars / Amps
-- Running / Trail / Road
-- Cooking / Baking
-- Snowboarding / Skiing
-<br><br>
 
 ## ⚡ Fun fact
-Beside programming, computers, networking and technology in general, I love music, trying to learn the guitar, I have one of Swedens largest airguitar collections 😁 🤘🏼 🎸!!!
+Beside programming, computers, networking and technology in general, I love music, I have one of Swedens largest airguitar collections 😁 🤘🏼 🎸!!!
 
 ---
 
 
 # 💻 Tech Stack:
 
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,svelte,nextjs,nuxtjs,pinia,tailwind,bootstrap,vite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,vite,git,netlify,github,firebase,docker,ps,ai,figma,linux,mysql,mongodb,nodejs,postman,powershell,prisma,raspberrypi,vscode,md&perline=6)](https://skillicons.dev)
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,nodejs,express,deno,laravel)](https://skillicons.dev)
+
+## DB
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma,supabase)](https://skillicons.dev)
+
+## Tech
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py,ubuntu,linux,apple,windows,docker)](https://skillicons.dev)
+
+## Misc
+[![My Skills](https://skillicons.dev/icons?i=git,npm,netlify,vercel,vscode,webstorm,phpstorm,postman,notion,md)](https://skillicons.dev)
 <br><br>
 
 # 📊 GitHub Stats:
@@ -29,13 +34,8 @@ Beside programming, computers, networking and technology in general, I love musi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nilssoncjonas&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilssoncjonas&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in//jonas-nilsson-4b8886226) 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=nilssoncjonas&icon=6&color=1)](https://visitcount.itsvg.in)
